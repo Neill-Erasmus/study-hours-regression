@@ -48,7 +48,9 @@ The MSE value of 13.88 is relatively low, indicating that, on average, the squar
 
 The r-squared score of 0.97 is quite high, indicating that approximately 97% of the variance in the test scores can be explained by the linear relationship with the study hours. A high r-squared score suggests that the model is an excellent fit for the data and is able to capture the underlying patterns effectively.
 
-![graph](https://github.com/Neill-Erasmus/study-hours-regression/assets/141222943/71eb53d4-873a-45dc-809c-79e4f76d963c)
+<p align="center">
+    <img src="https://github.com/Neill-Erasmus/study-hours-regression/assets/141222943/71eb53d4-873a-45dc-809c-79e4f76d963c" alt="graph">
+</p>
 
 In summary, based on these metrics, the model demonstrates high accuracy in predicting students' test scores based on their study hours. It appears to be a robust and reliable model for the given dataset.
 
